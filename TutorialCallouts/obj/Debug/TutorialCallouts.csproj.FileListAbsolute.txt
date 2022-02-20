@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\bin\Debug\TutorialCallouts.dll
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\bin\Debug\TutorialCallouts.pdb
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\bin\Debug\LSPD First Response.dll
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\obj\Debug\TutorialCallouts.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\obj\Debug\TutorialCallouts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\obj\Debug\TutorialCallouts.csproj.CopyComplete
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\obj\Debug\TutorialCallouts.dll
+C:\Users\Owner\Desktop\Bugs Bunny's Pocket\Active production\TutorialCallouts\TutorialCallouts\obj\Debug\TutorialCallouts.pdb
